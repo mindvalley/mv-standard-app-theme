@@ -7,11 +7,11 @@ require "mv-standard-app-theme/version"
 Gem::Specification.new do |s|
   s.name        = "mv-standard-app-theme"
   s.version     = MvStandardAppTheme::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of MvStandardAppTheme."
-  s.description = "TODO: Description of MvStandardAppTheme."
+  s.authors     = ["Tristan Gomez"]
+  s.email       = ["tristan@mindvalley.com"]
+  s.homepage    = "www.mindvaley.com"
+  s.summary     = "Mindvalley Standard Application Theme"
+  s.description = "Mindvalley Standard Application Theme"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
