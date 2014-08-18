@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = MvStandardAppTheme::VERSION
   s.authors     = ["Tristan Gomez"]
   s.email       = ["tristan@mindvalley.com"]
-  s.homepage    = "www.mindvaley.com"
+  s.homepage    = "http://www.mindvaley.com"
   s.summary     = "Mindvalley Standard Application Theme"
   s.description = "Mindvalley Standard Application Theme"
 
